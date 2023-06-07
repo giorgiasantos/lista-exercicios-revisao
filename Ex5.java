@@ -9,7 +9,7 @@ public class Ex5 {
         List<Integer> lista = new ArrayList<>();
         int numero = 0;
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 20; i++) {
             System.out.println("DIGITE UM NÚMERO: ");
             numero = entrada.nextInt();
 
